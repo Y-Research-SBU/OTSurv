@@ -1,0 +1,21 @@
+2025-06-25 16:10:29,261 - successfully read splits for: ['test']
+2025-06-25 16:10:29,299 - split: test, n: 71
+2025-06-25 16:10:29,299 - Init Model...
+2025-06-25 16:10:29,496 - OTSurv(
+  (patch_encoder): Sequential(
+    (0): Linear(in_features=1024, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.25, inplace=False)
+  )
+  (ot_attn): OT_Attn()
+  (prototype_embeddings): Embedding(16, 256)
+  (linear): Linear(in_features=16, out_features=1, bias=True)
+  (classifier): Linear(in_features=256, out_features=1, bias=True)
+)
+2025-06-25 16:10:29,496 - Total number of parameters: 266770
+2025-06-25 16:10:29,496 - Total number of trainable parameters: 266770
+2025-06-25 16:10:29,500 - End of training. Evaluating on Split TEST...:
+2025-06-25 16:10:46,499 - FINISHED!
+
+
+
