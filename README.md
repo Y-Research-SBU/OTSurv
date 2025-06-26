@@ -1,17 +1,17 @@
 <div align="center">
-
-  <img src="assets/otsurv_logo.png" alt="OTSurv Logo" width="100"/>
+  
+  <img src="assets/otsurv_logo.png" alt="OTSurv Logo" width="300"/>
 
   <h2>OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport</h2>
   <h4>🌟 MICCAI 2025 🌟</h4>
-
+  
   <br>
   
   <p>
     <a href="https://scholar.google.com.hk/citations?user=Tcg-9DcAAAAJ">Qin Ren</a><sup>1 ★</sup>&nbsp;
     <a href="https://yfwang.me/">Yifan Wang</a><sup>1</sup>&nbsp;
     <a href="https://lab-smile.github.io/">Ruogu Fang</a><sup>2</sup>&nbsp;
-    <a href="https://scholar.google.com/citations?hl=en&user=v3w4IYUAAAAJ">Jasjeet S. Sekhon</a><sup>1</sup>&nbsp;
+    <a href="https://scholar.google.com/citations?hl=en&user=v3w4IYUAAAAJ">Haibin Ling</a><sup>1</sup>&nbsp;
     <a href="https://chenyuyou.me/">Chenyu You</a><sup>1 ★</sup>
   </p>
 
@@ -20,9 +20,7 @@
     <sup>2</sup> University of Florida &nbsp;&nbsp; <br>
     ★ Corresponding authors
   </p>
-
-  <img src="docs/OTSurv_main.png" alt="OTSurv Framework Overview" width="800"/>
-  
+    
 </div>
 
 
@@ -38,6 +36,10 @@
     📍 <b>To be presented at MICCAI 2025</b><br>
     🧠 <b>Focus</b>: Survival Analysis · Multiple Instance Learning · Optimal Transport
   </blockquote>
+
+<div align="center">
+  <img src="docs/OTSurv_main.png" alt="OTSurv Framework Overview" width="800"/>
+</div>
 
 ## 📁 Data Organization
 
@@ -79,7 +81,12 @@ For patch feature extraction, please refer to [CLAM](https://github.com/mahmoodl
 
 You can download the preprocessed features from [this link](#) (link to be provided).
 
+<br>
+
 ---
+
+<br>
+
 
 ## 🚀 Quick Start
 
@@ -185,7 +192,11 @@ If you find this work useful, please cite our paper:
 
 > 📝 **Note**: This paper has been accepted at MICCAI 2025. The citation details will be updated once the paper is officially published.
 
+<br>
+
 ---
+
+<br>
 
 ## 🙏 Acknowledgements
 
