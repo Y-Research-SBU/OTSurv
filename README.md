@@ -150,6 +150,7 @@ The survival curve for TCGA-BLCA looks like this:
   <img src="result/visulization/BLCA_km.png" alt="TCGA-BLCA Survival Curve" width="500"/>
 </div>
 
+<br>
 
 ## 📊 Performance Results
 
@@ -168,6 +169,8 @@ Below are the C-Index performance results of OTSurv across different cancer type
 
 > 💡 **Note**: C-Index (Concordance Index) is a commonly used performance metric in survival analysis, where values closer to 1.0 indicate better prediction performance.
 
+<br>
+
 ## 📚 Citation
 
 If you find this work useful, please cite our paper:
@@ -185,6 +188,8 @@ If you find this work useful, please cite our paper:
 > 📝 **Note**: This paper has been accepted at MICCAI 2025. The citation details will be updated once the paper is officially published.
 > 
 
+<br>
+
 ## 🙏 Acknowledgements
 
 This work builds upon the excellent research from:
@@ -193,15 +198,18 @@ This work builds upon the excellent research from:
 - [CLAM](https://github.com/mahmoodlab/CLAM)
 - [PPOT](https://github.com/rhfeiyang/PPOT) 
 
+<br>
 
 ## 📄 License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
 
+<br>
 
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit issues and pull requests.
+<br>
 
 ---
 
