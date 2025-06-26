@@ -208,13 +208,14 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 ## 🤝 Contributing
 
-We welcome contributions! Please feel free to submit issues and pull requests.
-<br>
+We welcome contributions to **OTSurv**! If you have suggestions, bug reports, or want to add features or experiments, feel free to:
+
+- 🐞 Submit an issue
+- 🔧 Open a pull request
+- 💬 Start a discussion
 
 ---
 
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
-
-</div>
+<p align="center">
+  ⭐ <strong>If you find this repository helpful, please consider starring it!</strong> ⭐
+</p>
