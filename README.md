@@ -17,7 +17,7 @@ Welcome to the official repository of **OTSurv**, a novel framework that integra
 
 ## 📁 Data Organization
 
-### Dataset Structure
+### Project Structure
 ```
 OTSurv/
 ├── checkpoints/
@@ -44,7 +44,8 @@ OTSurv/
 │   └── ...
 │
 └── docs/
-    └── OTSurv_main.png
+│   ├── OTSurv_main.png
+│   └── OTSurv_heatmap.png
 ```
 
 ### Feature Format
@@ -61,7 +62,7 @@ You can download the preprocessed features from [this link](#) (link to be provi
 ### Prerequisites
 
 - Python 3.8+
-- CUDA-compatible GPU (recommended)
+- GPU or CPU-only
 - Conda package manager
 
 ### Installation
