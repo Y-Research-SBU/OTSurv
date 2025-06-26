@@ -1,19 +1,43 @@
-# 🌊 OTSurv [Official]
-
-**OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport**
-
-*Qin Ren, Yifan Wang, Ruogu Fang, Haibin Ling, Chenyu You*
-
-Welcome to the official repository of **OTSurv**, a novel framework that integrates **Multiple Instance Learning (MIL)** with **Heterogeneity-aware Optimal Transport (OT)** to tackle the challenges of survival prediction in medical imaging and clinical data.
-
-> 📍 **To be presented at MICCAI 2025**  
-> 🧠 **Focus**: Survival Analysis · Multiple Instance Learning · Optimal Transport
-
 <div align="center">
+
+  <img src="assets/otsurv_logo.png" alt="OTSurv Logo" width="100"/>
+
+  <h2>OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport</h2>
+  <h4>🌟 MICCAI 2025 🌟</h4>
+
+  <br>
+  
+  <p>
+    <a href="https://scholar.google.com.hk/citations?user=Tcg-9DcAAAAJ">Qin Ren</a><sup>1 ★</sup>&nbsp;
+    <a href="https://yfwang.me/">Yifan Wang</a><sup>1</sup>&nbsp;
+    <a href="https://lab-smile.github.io/">Ruogu Fang</a><sup>2</sup>&nbsp;
+    <a href="https://scholar.google.com/citations?hl=en&user=v3w4IYUAAAAJ">Jasjeet S. Sekhon</a><sup>1</sup>&nbsp;
+    <a href="https://chenyuyou.me/">Chenyu You</a><sup>1 ★</sup>
+  </p>
+
+  <p>
+    <sup>1</sup> Stony Brook University &nbsp;&nbsp; 
+    <sup>2</sup> University of Florida &nbsp;&nbsp; <br>
+    ★ Corresponding authors
+  </p>
+
   <img src="docs/OTSurv_main.png" alt="OTSurv Framework Overview" width="800"/>
+  
 </div>
 
----
+
+## 🧠 DL;TR
+
+  <p>
+    Welcome to the official repository of <b>OTSurv</b>, a novel framework that integrates 
+    <b>Multiple Instance Learning (MIL)</b> with <b>Heterogeneity-aware Optimal Transport (OT)</b> 
+    to tackle the challenges of survival prediction in medical imaging and clinical data.
+  </p>
+
+  <blockquote>
+    📍 <b>To be presented at MICCAI 2025</b><br>
+    🧠 <b>Focus</b>: Survival Analysis · Multiple Instance Learning · Optimal Transport
+  </blockquote>
 
 ## 📁 Data Organization
 
