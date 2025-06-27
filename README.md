@@ -20,7 +20,18 @@
     <sup>2</sup> University of Florida &nbsp;&nbsp; <br>
     ★ Corresponding authors
   </p>
-    
+
+<div align='center'>
+
+<p>
+  <a href="https://arxiv.org/abs/2506.20741">
+    <img src="https://img.shields.io/badge/💡%20Paper-MICCAI-blue?style=flat-square" alt="Paper">
+  </a>
+  <img src="https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.0">
+</p>
+
+</div>
+
 </div>
 
 
