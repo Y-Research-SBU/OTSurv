@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-green?style=flat-square&logo=huggingface" alt="Hugging Face Dataset">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.0">
+    <img src="https://img.shields.io/badge/PyTorch-2.3-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.3">
   </a>
 </p>
 
