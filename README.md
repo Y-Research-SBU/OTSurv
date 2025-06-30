@@ -28,6 +28,9 @@
   <a href="https://huggingface.co/Y-Research-Group/OTSurv">
     <img src="https://img.shields.io/badge/Hugging%20Face-Model-yellow?style=flat-square&logo=huggingface" alt="Hugging Face Model">
   </a>
+  <a href="https://huggingface.co/datasets/Y-Research-Group/OTSurv_Dataset">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-green?style=flat-square&logo=huggingface" alt="Hugging Face Dataset">
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.0">
   </a>
@@ -91,7 +94,7 @@ OTSurv/
 
 For patch feature extraction, please refer to [CLAM](https://github.com/mahmoodlab/CLAM).
 
-You can download the preprocessed features from [this link](#) (link to be provided).
+You can download the preprocessed features from [this link](https://huggingface.co/datasets/Y-Research-Group/OTSurv_Dataset).
 
 <br>
 
@@ -130,7 +133,7 @@ bash scripts/train_blca.sh
 
 ### Evaluation
 
-You can download pre-trained checkpoints from [this link](#) (link to be provided).
+You can download pre-trained checkpoints from [this link](https://huggingface.co/Y-Research-Group/OTSurv).
 
 ```bash
 # Test results will be saved under result/exp_otsurv_test
