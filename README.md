@@ -133,7 +133,7 @@ bash scripts/train_blca.sh
 
 ### Evaluation
 
-You can download pre-trained checkpoints from [this link](https://huggingface.co/Y-Research-Group/OTSurv).
+You can download all trained checkpoints from [this link](https://huggingface.co/Y-Research-Group/OTSurv).
 
 ```bash
 # Test results will be saved under result/exp_otsurv_test
@@ -191,12 +191,14 @@ Below are the C-Index performance results of OTSurv across different cancer type
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{ren2025otsurv,
-  title={A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport},
-  author={Ren, Qin and Wang, Yifan and Fang, Ruogu and Ling, Haibin and You, Chenyu},
-  booktitle={Medical Image Computing and Computer Assisted Intervention (MICCAI)},
-  year={2025},
-  note={Accepted for publication}
+@misc{ren2025otsurvnovelmultipleinstance,
+      title={OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport}, 
+      author={Qin Ren and Yifan Wang and Ruogu Fang and Haibin Ling and Chenyu You},
+      year={2025},
+      eprint={2506.20741},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.20741}, 
 }
 ```
 
