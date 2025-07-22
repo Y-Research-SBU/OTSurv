@@ -39,7 +39,7 @@
 </div>
 
 
-## 🧠 DL;TR
+## 🧠 TL;DR
 
   <p>
     Welcome to the official repository of <b>OTSurv</b>, a novel framework that integrates 
